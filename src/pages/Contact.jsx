@@ -44,9 +44,9 @@ const Contact = () => {
 
     try {
       // 👇 Replace these with your actual EmailJS IDs
-      const SERVICE_ID = "service_dqlssfs";
-      const TEMPLATE_ID = "template_5d294t3";
-      const PUBLIC_KEY = "7rdoLB7DHMBzAkPil";
+      const SERVICE_ID = "service_sbnylob";
+      const TEMPLATE_ID = "template_csfmkte";
+      const PUBLIC_KEY = "JEn0w2qn5IksMCEfZ";
 
       await emailjs.sendForm(
         SERVICE_ID,
